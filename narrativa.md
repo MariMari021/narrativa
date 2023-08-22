@@ -159,17 +159,18 @@ arquivo no GitHub, através do GitHub desktop.
 7. No próximo pop-up, clique em "Create a repository";
 8. No pop-up "create a repository", clique novamente em "create a repository";
 9. No próximo pop-up "Add local repository", clique novamente em "Create a repository";
-10. Quando retornar à página do GitHub Desktop, escreva o resumo e a descrição;
-11. Clique no botão de confirmação;
-12. Encontre o botão na parte superior, ao lado do botão "Current branch";
-13. Clique no botão de envio;
-14. Minimize a janela do aplicativo;
-15. Abra o navegador;
-16. Pesquise por "GitHub";
-17. Acesse o site;
-18. Faça o login em sua conta;
-19. Acesse a seção de repositórios;
-20. Verifique se a pasta está listada lá;
+10. O pop-up "Add local repository" aparecerá novamente, clique no "X".
+11. Quando retornar à página do GitHub Desktop, escreva o resumo e a descrição;
+12. Clique no botão de "Commit to main";
+13. Encontre o botão na parte superior, ao lado do botão "Current branch";
+14. Clique no botão de envio;
+15. Minimize a janela do aplicativo;
+16. Abra o navegador;
+17. Pesquise por "GitHub";
+18. Acesse o site;
+19. Faça o login em sua conta;
+20. Acesse a seção de repositórios;
+21. Verifique se a pasta está listada lá;
 
 Faça uma descrição narrativa para enviar um anexo numa
 atividade do classroom.
